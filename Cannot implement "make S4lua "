@@ -1,0 +1,4 @@
+When I want to finish the compilation:
+I implemented "make" instead of "make lib", and finished the first step of compilation~
+But, when I operate the next step "make S4lua", the Ubuntu says "There are no rules to make the target "S4lua". Stop."...
+What should I do? Please give me some help! Thank you in advance for your answers!
